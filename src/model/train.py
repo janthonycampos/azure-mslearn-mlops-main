@@ -68,10 +68,10 @@ if __name__ == "__main__":
     print("*" * 60)
 
     # parse args
-    #args = parse_args()
+    args = parse_args()
 
     # run main function
-    #main(args)
+    main(args)
 
     # add space in logs
     print("*" * 60)
